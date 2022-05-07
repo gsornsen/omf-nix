@@ -30,7 +30,7 @@ See the [Official Nix Documentation](https://nixos.org/learn.html) for usage.
 
 [mit]:            https://opensource.org/licenses/MIT
 [author]:         https://github.com/gsornsen
-[contributors]:   https://github.com/gsornsen/plugin-nix/graphs/contributors
+[contributors]:   https://github.com/gsornsen/omf-nix/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
